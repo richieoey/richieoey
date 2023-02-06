@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @richieoey
-- 👀 I’m interested in swift, flutter, and kotlin
-- 🌱 I’m currently learning java OOP, Algorithm Design Analysis and Computer Security 
+- 👀 I’m interested in swift, and kotlin
 
 <!---
 richieoey/richieoey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
